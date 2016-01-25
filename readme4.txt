@@ -9,3 +9,5 @@ burannti wo henkousiteimasu!
 mousukosihenkou
 
 lino3の変更？
+
+ファストフォワードマージにしたい
