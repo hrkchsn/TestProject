@@ -11,3 +11,6 @@ mousukosihenkou
 lino3の変更？
 
 ファストフォワードマージにしたい
+
+lino4で編集
+
