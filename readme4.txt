@@ -2,6 +2,7 @@
 
 変更しますー
 
+masterで編集してます
 ここを変更！！
 
 burannti wo henkousiteimasu!
